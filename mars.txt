@@ -3,4 +3,9 @@ for this is the kingdom, the power and the glory
 and the crown is on Mars as it is on Earth
 and religion is the opium of the people
 and I like white eggs and borwn eggs are cool, too
+<<<<<<< HEAD
 I would like to eat lunch
+=======
+and when the sun sets west
+>>>>>>> 7ecf9e1d4899329769deba91d058fe997bc79fda
+TAIL
